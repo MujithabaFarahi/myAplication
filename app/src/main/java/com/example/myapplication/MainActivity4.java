@@ -355,11 +355,11 @@ public class MainActivity4 extends AppCompatActivity {
         TextView textWinLose = popUpView.findViewById(R.id.winPopUp);
 
         if (finalSumOfC > finalSumOfH) {
-            textWinLose.setText("Player 2 Win!");
+            textWinLose.setText("\n\n\nPlayer 2 Win!");
             textWinLose.setTextColor(Color.GREEN);
             loseCount++;
         } else if (finalSumOfH > finalSumOfC) {
-            textWinLose.setText("Player 1 Win!");
+            textWinLose.setText("\n\n\nPlayer 1 Win!");
             textWinLose.setTextColor(Color.GREEN);
             winCount++;
         }

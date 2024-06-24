@@ -113,6 +113,7 @@
         android:id="@+id/cDice1"
         android:layout_width="70dp"
         android:layout_height="70dp"
+        android:contentDescription="@string/dice_no_5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/cDice2"
         app:layout_constraintTop_toBottomOf="@+id/hDice1"
