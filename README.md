@@ -1,5 +1,4 @@
-# YOUR PROJECT TITLE
-Dice Roller game
+# Dice Roller Game
 
 #### Video Demo:  <URL HERE>
 
@@ -11,3 +10,10 @@ After first throw player can take those values or try again for two more times. 
 At the same time computer will also throw 5 dices in a random strategy and a improved stretergy when the difficulty is hard.
 Whoever reaches the target first will win the set.
 In multiplayer mode two players can throw and try to win.
+
+####   Project Title : Dice Roller
+####   Name   : Mujithaba Farahi 
+####   Github : MujithabaFarahi 
+####   Edx    : mujithaba 
+####   From   : Colombo, Sri Lanka 
+####   Date   : 25/06/2024" 
